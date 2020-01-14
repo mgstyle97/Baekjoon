@@ -6,3 +6,5 @@
 - 재귀
   1. [Z](https://github.com/mgstyle97/Baekjoon/tree/master/src/Recursion/Z)
   2. [도영이가 만든 맛있는 음식](https://github.com/mgstyle97/Baekjoon/tree/master/src/Recursion/도영이가%20만든%20맛있는%20음식)
+- 배열
+  1. [Scale](https://github.com/mgstyle97/Baekjoon/tree/master/src/Array/Scale)
