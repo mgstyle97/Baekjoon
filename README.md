@@ -14,6 +14,7 @@
 - 스택
   1. [Stack](https://github.com/mgstyle97/Baekjoon/tree/master/src/Stack/Stack)
   2. [Bracket](https://github.com/mgstyle97/Baekjoon/tree/master/src/Stack/Bracket)
-
 - 큐
   1. [Queue](https://github.com/mgstyle97/Baekjoon/tree/master/src/Queue/Queue)
+- 연결 리스트
+  1. [Keylogger](https://github.com/mgstyle97/Baekjoon/blob/master/src/Linked_list/Keylogger/Keylogger.c)
